@@ -1,0 +1,15 @@
+/Users/simko/Desktop/encryption/encryption/encryption/bin/Debug/net8.0/encryption
+/Users/simko/Desktop/encryption/encryption/encryption/bin/Debug/net8.0/encryption.deps.json
+/Users/simko/Desktop/encryption/encryption/encryption/bin/Debug/net8.0/encryption.runtimeconfig.json
+/Users/simko/Desktop/encryption/encryption/encryption/bin/Debug/net8.0/encryption.dll
+/Users/simko/Desktop/encryption/encryption/encryption/bin/Debug/net8.0/encryption.pdb
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.csproj.AssemblyReference.cache
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.AssemblyInfoInputs.cache
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.AssemblyInfo.cs
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.csproj.CoreCompileInputs.cache
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.dll
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/refint/encryption.dll
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.pdb
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/encryption.genruntimeconfig.cache
+/Users/simko/Desktop/encryption/encryption/encryption/obj/Debug/net8.0/ref/encryption.dll
