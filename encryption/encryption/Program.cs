@@ -106,6 +106,7 @@ class Program
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Decrypted message: " + decryptedText);
             Console.ResetColor();
+            
         }
         catch (FileNotFoundException)
         {
